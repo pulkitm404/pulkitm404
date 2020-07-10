@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**pulkitm404/pulkitm404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  >"It is not necessary to _React_ to everything you notice."
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+But if you would notice my respositories, you'd realise I'm a React Developer.
+```
+#### I've also gained experience, hence confidence in:
+- [x] Responsive Web Design
+- [x] Developing a PWA (_Progressive Web Applications_)
+- [x] Hosting & Deployment
+- [x] Multiplatform App Development through React Native
+- [x] Cloud Computing & Lambda Functions through AWS & Netlify
