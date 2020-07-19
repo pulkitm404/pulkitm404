@@ -11,3 +11,5 @@ But if you would notice my respositories, you'd realise I'm a React Developer.
 - [x] Hosting & Deployment
 - [x] Multiplatform App Development through React Native
 - [x] Cloud Computing & Lambda Functions through AWS & Netlify
+
+![Pulkit's github stats](https://github-readme-stats.vercel.app/api?username=pulkitm404)
